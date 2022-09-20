@@ -1,2 +1,3 @@
-# cogd-mod
-Master thesis based on researching CoGradient Descent algorithm.
+## CoGradient Descent algorithm
+
+Reference paper: https://arxiv.org/pdf/2106.10617.pdf
